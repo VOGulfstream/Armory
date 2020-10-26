@@ -12,6 +12,7 @@ https://www.deepl.com/translator
 
 ### 弹药 from 文謙
 #K001. https://gnews.org/443211/  英文亨特借款合同
+
 #K002. https://gnews.org/zh-hans/443372/  中文亨特借款合同 
 
 #K003. https://gnews.org/443662/  拜登假名EMAIL 
